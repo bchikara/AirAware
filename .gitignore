@@ -1,0 +1,38 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and outputs
+*.log
+*.out
+*.DS_Store
+
+# AWS IoT Certificates and Keys
+*.pem
+*.crt
+*.key
+
+# MongoDB dump folders
+dump/
+mongo_backup/
+
+# Environment/secret files
+.env
+secrets.json
+
+# PyCharm/VSCode project files
+.vscode/
+.idea/
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
